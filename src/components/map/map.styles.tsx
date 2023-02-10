@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 
-const TOPBAR_HEIGHT = 0;
+const TOPBAR_HEIGHT = 72;
 
 export const useStyles = () => ({
   map: styled.div({
